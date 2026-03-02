@@ -69,7 +69,7 @@
     <proguard.plugin.version>2.6.1</proguard.plugin.version>
     <!-- This can't reference project.version as some subprojects version differently -->
     <zxing.version>3.5.5-SNAPSHOT</zxing.version>
-    <android.platform>22</android.platform>
+    <android.platform>23</android.platform>
   </properties>
 
   <build>
